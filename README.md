@@ -1,4 +1,4 @@
-# WELCOME TO MY GIT 👋 
+# WELCOME TO MY PROFILE 👋 
 
 - 🌱 I am currently learning everything 
 - 👯 Looking to collaborate with others
