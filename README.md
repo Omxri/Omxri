@@ -1,9 +1,11 @@
-# WELCOME TO MY PROFILE 👋 
+# Hi 👋 My name is Lothrop Richards
+## Software Engineer 
 
-- 🌱 I am currently learning everything 
+- 📍 Based in Charlseton
+- 🌱 I am learning React 
 - 👯 Looking to collaborate with others
-- 🥅 2022 Goals: Create an IOS App
-- ⚡ Fun fact: photography is my hobby
+- 🥅 2022 Goals: Learn to create an IOS App
+- ⚡  Loves art and fashion
 
 ### Connect wit me:
 
