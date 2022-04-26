@@ -4,7 +4,6 @@
 - 📍 Based in Charlseton
 - 🌱 I am learning React 
 - 👯 Looking to collaborate with others
-- 🥅 2022 Goals: Learn to create an IOS App
 - ⚡  Loves art and fashion
 
 ### Connect wit me:
