@@ -4,7 +4,6 @@
 - 📍 Based in Charlseton
 - 🌱 I am learning React 
 - 👯 Looking to collaborate with others
-- ⚡  Loves art and fashion
 
 ### Connect wit me:
 
